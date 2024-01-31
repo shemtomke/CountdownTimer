@@ -27,7 +27,8 @@
             <Button
                 android:layout_width="60dp"
                 android:layout_height="60dp"
-                android:id="@+id/delete_button"
+                android:layout_marginTop="40dp"
+                android:id="@+id/pause_button"
                 android:background="@drawable/baseline_pause_circle_24" />
         </LinearLayout>
 
